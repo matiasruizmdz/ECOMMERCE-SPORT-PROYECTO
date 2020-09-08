@@ -1,5 +1,7 @@
 # ECOMMERCE-SPORT-PROYECTO
 ECOMMERCE SPORT PROYECTO realizado para el curso de Henry Full Stack , etapa demo 1.
+Mi linkedin: www.linkedin.com/in/matias-ruiz-mdz/
+Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
 
 ## COMENZANDO
 
