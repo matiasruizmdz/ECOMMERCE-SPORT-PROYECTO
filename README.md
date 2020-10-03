@@ -8,12 +8,15 @@ Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
 <p align='left'>
     <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI.jpeg' </img>
 </p>
+
 <p align='left'>
     <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI 1.jpeg' </img>
 </p>
+
 <p align='left'>
     <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI 2.jpeg' </img>
 </p>
+
 <p align='left'>
     <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI 3.jpeg' </img>
 </p>
