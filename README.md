@@ -3,6 +3,8 @@ ECOMMERCE SPORT PROYECTO realizado para el curso de Henry Full Stack , etapa dem
 Mi linkedin: www.linkedin.com/in/matias-ruiz-mdz/
 Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
 
+(./IMAGEN PROYECTO APRETAR AQUI 1.jpg "IMAGEN PROYECTO APRETAR AQUI 1")
+
 ## COMENZANDO
 
 cuenta con dos carpetas: `api` y `client`. En estas carpetas estará el código del back-end y el front-end respectivamente. (En ambos instaralar NPM INSTALL)
