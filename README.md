@@ -5,7 +5,9 @@ Mi linkedin: www.linkedin.com/in/matias-ruiz-mdz/
 
 Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
 
-![alt text](./imagenes/IMAGEN PROYECTO APRETAR AQUI.jpeg "IMAGEN PROYECTO APRETAR AQUI")
+<p align='left'>
+    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI.jpeg' </img>
+</p>
 
 ## COMENZANDO
 
