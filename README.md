@@ -1,4 +1,4 @@
-# ECOMMERCE-SPORT-PROYECTO
+# ECOMMERCE-SPORT-PROYECTO 🚀
 ECOMMERCE SPORT PROYECTO realizado para el curso de Henry Full Stack , etapa demo 1.
 
 Mi linkedin: www.linkedin.com/in/matias-ruiz-mdz/
@@ -21,7 +21,7 @@ Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
     <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI3.jpeg' </img>
 </p>
 
-## COMENZANDO
+## COMENZANDO 🚀
 
 cuenta con dos carpetas: `api` y `client`. En estas carpetas estará el código del back-end y el front-end respectivamente. (En ambos instaralar NPM INSTALL)
 
@@ -39,6 +39,23 @@ Tenés que reemplazar `usuariodepostgres` y `passwordDePostgres` con tus propias
 
 El contenido de `client` fue creado usando: Create React App.
 
-## EJECUTAR
+## EJECUTAR 🛠️ :
  
  Para ejecutar el proyecto una vez hecho los pasos anteriores vamos a correr NPM START en Api y luego en Client.
+
+### TECNOLOGIÍAS USADAS 🛠️:
+
+- Front End:
+    + HTML - CSS - Javascript
+    + React
+    + React-Bootstrap
+    + Redux
+
+- Back End:
+    + Node.js
+    + Express
+    + Passport
+    + Sequelize
+
+- Database: 
+    + PostgreSQL
