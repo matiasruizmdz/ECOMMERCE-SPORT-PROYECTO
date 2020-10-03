@@ -3,7 +3,7 @@ ECOMMERCE SPORT PROYECTO realizado para el curso de Henry Full Stack , etapa dem
 Mi linkedin: www.linkedin.com/in/matias-ruiz-mdz/
 Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
 
-(./IMAGEN PROYECTO APRETAR AQUI 1.jpg "IMAGEN PROYECTO APRETAR AQUI 1")
+![alt text](./IMAGEN PROYECTO APRETAR AQUI 1.jpg "IMAGEN PROYECTO APRETAR AQUI 1")
 
 ## COMENZANDO
 
