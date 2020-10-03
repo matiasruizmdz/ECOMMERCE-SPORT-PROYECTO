@@ -10,15 +10,15 @@ Equipo de trabajo: Gustavo  - Cecilia - Ignacio - Agustina
 </p>
 <br/>
 <p >
-    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI 1.jpeg' </img>
+    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI1.jpeg' </img>
 </p>
 <br/>
 <p >
-    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI 2.jpeg' </img>
+    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI2.jpeg' </img>
 </p>
 <br/>
 <p>
-    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI 3.jpeg' </img>
+    <img src='./imagenes/IMAGEN PROYECTO APRETAR AQUI3.jpeg' </img>
 </p>
 
 ## COMENZANDO
